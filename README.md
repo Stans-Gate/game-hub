@@ -1,12 +1,12 @@
 # Game-hub: a RAWG Demo
 
-#Link to the website: https://rawg-demo-three.vercel.app/
+Link to the website: https://rawg-demo-three.vercel.app/
 
 ## Overview
 This is a demo website showcasing a game library using the RAWG Video Games Database API. 
 The website provides users with a curated collection of games, allowing them to explore details, search for genres, specific titles, platforms and discover different games through different filters.
 
-##Time Spent
+## Time Spent
 I lost track of the time I spent on this website, but it definitely took more than 5. 
 
 ## Features
@@ -17,7 +17,7 @@ I lost track of the time I spent on this website, but it definitely took more th
 - **Filter and Sorting Options:** Sort and filter games based on various criteria such as popularity, release date, and more.
 - **Responsive Design:** Enjoy a seamless experience on devices of different screen sizes.
 
-##Technologies Used
+## Technologies Used
 - React
 - Typscript
 - ChakraUI library
