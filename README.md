@@ -18,9 +18,11 @@ I lost track of the time I spent on this website, but it definitely took more th
 - **Responsive Design:** Enjoy a seamless experience on devices of different screen sizes.
 
 ## Technologies Used
+- Vite
 - React
 - Typscript
 - ChakraUI library
+- Axios (Data Fetching)
 - Vercel (Deployment)
 - RAWG Video Games Database API
 - Other dependencies (listed in package.json)
