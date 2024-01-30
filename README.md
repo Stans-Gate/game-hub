@@ -27,15 +27,11 @@ I lost track of the time I spent on this website, but it definitely took more th
 
 ## Getting Started
 To run the project locally, follow these steps:
-1. Navigate to the project directory:
-Copy code to the terminal: 
-cd game-library-demo
-2. Install dependencies:
-npm install
-3. Start the development server:
-npm start
-4. Open your browser and visit http://localhost:3000 to view the demo.
-
+1. Clone this repository to your local machine
+2. Run npm install to install the required dependencies.
+3. Get RAWG API key at https://rawg.io/apidocs.
+4. Add the API key to src/services/api-client.ts
+5. Use npm run dev command to start the web server.
 
 
    
